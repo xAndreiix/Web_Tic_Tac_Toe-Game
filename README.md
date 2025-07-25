@@ -14,12 +14,6 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 
 ---
 
-## 🚀 Live Demo
-
-*Add GitHub Pages / Netlify link here if deployed.*
-
----
-
 ## 📂 Project Structure
 
 - .
