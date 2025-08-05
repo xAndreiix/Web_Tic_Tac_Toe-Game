@@ -30,7 +30,6 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 - ├── README.md            # Project documentation
 - └── .gitignore           # Git exclusion rules
 
-
 ---
 
 ## ⚙️ How to Run
