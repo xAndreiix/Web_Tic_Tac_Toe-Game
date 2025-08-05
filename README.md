@@ -4,6 +4,12 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 
 ---
 
+## 💻 Live Demo
+
+- [⛓️‍💥 Demo](https://web-tic-tac-toe-game-eight.vercel.app/)
+
+---
+
 ## 🔍 Features
 
 - 2-player mode with alternating turns.
@@ -38,8 +44,12 @@ No build tools or servers required.
 
 2. Open index.html in any browser.
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 ## 👨‍💻 Author
 - Andrei Iliescu
