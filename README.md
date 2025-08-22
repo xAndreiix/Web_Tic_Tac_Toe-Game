@@ -10,6 +10,22 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/tic-tac-toe.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/x-win.png" width="30%">
+  <img src="screenshots/draw.png" width="30%">
+   <img src="screenshots/o-win.png" width="30%">
+</p>
+
+---
+
 ## 🔍 Features
 
 - 2-player mode with alternating turns.
