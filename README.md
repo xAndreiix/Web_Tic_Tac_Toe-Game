@@ -80,6 +80,8 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 1. Clone the repo:
 ```bash
 git clone https://github.com/xAndreiix/Web_Tic_Tac_Toe_Game.git
+```
+```bash
 cd tic-tac-toe-game
 ```
 2. Open index.html in any browser.
