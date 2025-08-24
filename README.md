@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -17,7 +17,7 @@
 
 ---
 
-## Introduction
+## Project description
 A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, and **Vanilla JavaScript**. No libraries, no dependencies — just pure front-end.
 
 ---
