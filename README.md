@@ -29,15 +29,13 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/tic-tac-toe.png" width="600">
+  <img src="screenshots/tic-tac-toe-mockup.png" width="600">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/x-win.png" width="30%">
-  <img src="screenshots/draw.png" width="30%">
-   <img src="screenshots/o-win.png" width="30%">
+  <img src="screenshots/webpage-x-wins-mockup.png" width="600">
 </p>
 
 ---
@@ -64,10 +62,8 @@ A clean, responsive Tic-Tac-Toe (X and O) game built using **HTML**, **CSS**, an
 - ├── style.css
 - ├── script.js
 - ├── screenshots/
-- │   └── draw.png
-- │   └── x-win.png
-- │   └── o-win.png
-- │   └── tic-tac-toe.png
+- │   └── webpage-x-wins-mockup.png
+- │   └── tic-tac-toe-mockup.png
 - ├── LICENSE
 - ├── README.md
 - └── .gitignore
